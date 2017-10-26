@@ -1,4 +1,4 @@
-/*Lab 1 first file - ID number 815009291*/
+/*Lab 1 first file - ID number 8049*/
 #include <p18f452.h>
 #include <delays.h>
 
